@@ -1,4 +1,12 @@
+# Hola, soy Augusto (seaug)
 ### Hi there 👋
+Trabajo como desarrollador de software en DINAMO para el proyecto del departamento de cobranza.
+
+Las tecnologías con las que trabajo todos los días son PHP, JS, CSS y PL/SQL
+
+A pesar de que no soy muy asiduo de mis redes sociales puedes seguirme en:
+* [TW @se_aug](https://twitter.com/se_aug)
+* [IG juridalzero85](https://www.instagram.com/juridicalzero85/)
 
 <!--
 **seaug/seaug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
