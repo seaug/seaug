@@ -1,5 +1,5 @@
 # Hola, soy Augusto (seaug)
-### Hi there 👋
+### Domo arigato Mr. Roboto 🤖
 Trabajo como desarrollador de software en DINAMO para el proyecto del departamento de cobranza.
 
 Las tecnologías con las que trabajo todos los días son PHP, JS, CSS y PL/SQL
