@@ -1,5 +1,5 @@
 # Hola, soy Augusto (seaug) 
-### `echo 'Domo arigato Mr. Roboto'; //`
+### `echo 'Domo arigato Mr. 🤖'; //`
 Trabajo como Analista Informático Administrativo.
 Entre mis actividades se encuentran: desarrollo de los sistemas de gestiones de cobranza y generación de recibos de cobro de servicios para CIBP.
 
